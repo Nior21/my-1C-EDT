@@ -9,7 +9,8 @@
     <value>Внешняя обработка</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="2310ba2d-8104-454d-8832-82d0229affa2"/>
-  <forms uuid="c8e58399-1e20-44c8-a333-edb3664d8a2d">
+  <defaultForm>ExternalDataProcessor.ВнешняяОбработка.Form.Форма</defaultForm>
+  <forms uuid="0b93c28e-9961-44c5-bbdc-bdbd4fd3a2f3">
     <name>Форма</name>
     <synonym>
       <key>ru</key>
