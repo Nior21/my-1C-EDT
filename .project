@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Main</name>
 	<comment></comment>
 	<projects>
@@ -14,5 +15,21 @@
 	<natures>
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>com._1c.g5.v8.dt.core.V8ConfigurationNature</nature>
+=======
+	<name>ВнешняяОбработка</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.xtext.ui.shared.xtextBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+		<nature>com._1c.g5.v8.dt.core.V8ExternalObjectsNature</nature>
+>>>>>>> branch 'master' of https://github.com/Nior21/my-1C-EDT
 	</natures>
 </projectDescription>

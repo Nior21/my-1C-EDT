@@ -1,2 +1,6 @@
 Manifest-Version: 1.0
 Runtime-Version: 8.3.12
+<<<<<<< HEAD
+=======
+Base-Project: Main
+>>>>>>> branch 'master' of https://github.com/Nior21/my-1C-EDT
